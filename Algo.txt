@@ -3,3 +3,5 @@ Look up phone number or address
 Order pizza that you want over the phone or in person
 Wait for delivery or pickup yourself
 Enjoy
+If the wrong order is delivered call the company or return to store
+ask for refund or correct order
